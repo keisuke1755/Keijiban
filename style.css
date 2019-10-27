@@ -1,0 +1,108 @@
+.logo img{
+    width: 300px;
+}
+
+.header{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+.header ul{
+    margin-top: -20px;
+}
+
+.header ul li{
+    list-style: none;
+    margin-right: 30px;
+    float: left;
+    color: white;
+    line-height: 40px;
+}
+
+.left{
+    float:left;
+    width: 63%;
+}
+
+h1{
+    padding-left: 30px;
+    border-bottom: 3px solid black;
+    border-left: 5px solid black;
+}
+
+form{
+    width: 100%;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+form .content{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+form .content h3{
+    border-left: 4px red solid;
+    padding-left: 10px;
+}
+
+form .submit{
+    color: white;
+    background-color: gray;
+    border-radius: 5px;
+    border-bottom: 2px black solid;
+}
+
+.hyoji{
+    width: 100%;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.hyoji .contents{
+	margin: 0 auto;
+	width: 95%;	
+}
+
+.hyoji h3{
+    padding-top: 10px;
+	border-bottom: 1px gray solid;
+}
+
+.hyoji p{
+	margin-top: 10px;
+}
+
+.hyoji .handlname{
+	padding-bottom: 10px;
+	font-size: 10px;
+	margin-top: -12px;
+}
+
+.right{
+    float: right;
+    width: 33%;
+}
+
+.right h3{
+    margin-top: 50px;
+    border-bottom: 3px dotted black;
+}
+
+.right li{
+    list-style: none;
+}
+
+footer{
+    clear: both;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+	height: 30px;
+	line-height: 30px;
+}
